@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CRUD-Delete_Operation./static/css/main.c2cab247.css",
+    "main.js": "/CRUD-Delete_Operation./static/js/main.97462dd4.js",
+    "index.html": "/CRUD-Delete_Operation./index.html",
+    "main.c2cab247.css.map": "/CRUD-Delete_Operation./static/css/main.c2cab247.css.map",
+    "main.97462dd4.js.map": "/CRUD-Delete_Operation./static/js/main.97462dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.97462dd4.js"
+  ]
+}
